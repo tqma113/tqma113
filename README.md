@@ -8,3 +8,4 @@ TODO：
 - [ ] pure-model 类型优化 https://github.com/Lucifier129/pure-model/issues/1
 - [ ] jsoncall-rs
 - [ ] farrow Subscription https://github.com/Lucifier129/farrow/issues/69
+- [ ] farrow Playground
