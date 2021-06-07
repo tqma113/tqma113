@@ -4,9 +4,11 @@
 </p>
 
 TODO：
-- [ ] farrow-deno-server https://github.com/tqma113/farrow-deno-server 专门做个 deno-specific 的 client codegen 
-- [ ] pure-model 类型优化 https://github.com/Lucifier129/pure-model/issues/1
+- [ ] pure-model type optimization https://github.com/Lucifier129/pure-model/issues/1
 - [ ] jsoncall-rs
-- [ ] farrow Subscription https://github.com/Lucifier129/farrow/issues/69
-- [ ] farrow Playground
+- [ ] farrow subscription https://github.com/Lucifier129/farrow/issues/69
+- [ ] farrow Playground 
 - [ ] 由 Unbundle 反推出一个框架
+
+Finished:
+- [x] [farrow-deno-api](https://github.com/Lucifier129/farrow/tree/master/packages/farrow-deno-api)  client code generation for deno-specific
