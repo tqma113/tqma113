@@ -7,7 +7,8 @@ TODO：
 - [ ] pure-model type optimization https://github.com/Lucifier129/pure-model/issues/1
 - [ ] jsoncall-rs
 - [ ] farrow subscription https://github.com/Lucifier129/farrow/issues/69
-- [ ] farrow Playground 
+- [ ] farrow-api-playground
+- [ ] farrow-api-doc
 - [ ] 由 Unbundle 反推出一个框架
 - [ ] farrow-sample like https://github.com/nestjs/nest/tree/master/sample
 - [ ] farrow-docs i18n
