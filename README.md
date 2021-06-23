@@ -7,12 +7,13 @@ TODO：
 - [ ] pure-model type optimization https://github.com/Lucifier129/pure-model/issues/1
 - [ ] jsoncall-rs
 - [ ] farrow-subscription https://github.com/Lucifier129/farrow/issues/69
-- [ ] farrow-api-playground
+- [ ] farrow-api-playground https://github.com/farrow-js/farrow-api-playground
 - [ ] farrow-api-doc
 - [ ] 由 Unbundle 反推出一个框架
 - [ ] farrow-sample like https://github.com/nestjs/nest/tree/master/sample
 - [ ] farrow-docs i18n
-- [ ] farrow-api-express
+- [ ] farrow-express https://github.com/farrow-js/farrow/tree/master/packages/farrow-express
+- [ ] farrow-express-router https://github.com/tqma113/farrow-express-router
 
 Finished:
 - [x] [farrow-deno-api](https://github.com/Lucifier129/farrow/tree/master/packages/farrow-deno-api)  client code generation for deno-specific
