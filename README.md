@@ -11,8 +11,3 @@ TODO：
 - [ ] farrow-api-doc
 - [ ] farrow-sample like https://github.com/nestjs/nest/tree/master/sample
 - [ ] farrow-docs i18n
-
-Finished:
-- [x] [farrow-deno-api](https://github.com/Lucifier129/farrow/tree/master/packages/farrow-deno-api)  client code generation for deno-specific
-- [x] farrow-express https://github.com/farrow-js/farrow/tree/master/packages/farrow-express
-- [x] farrow-express-router https://github.com/tqma113/farrow-express-router
